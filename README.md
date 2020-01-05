@@ -1,4 +1,4 @@
 # Todo-App
-A Todo-App has been created where the user can create a list of items by entering the name of the item and clicking the add button  and can also give the background color according to his choice and can also delete the name of a particular item by clicking the delete button. 
+ A Todo App has been created using HTML,CSS,Jquery,Bootstrap where the user can enter the text and can add it to main Html Page.The user can also delete the added portion of data on clicking on bin image .Also the user can choose the color of th background to be given to the data added.
 ### Todo-App Url
 [Click ME!...](https://manik410.github.io/Todo-App/index)
